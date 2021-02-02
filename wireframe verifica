@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T07:23:04.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" version="14.2.9" etag="vfdZRKEUZVexpG1RrNUX" type="github"><diagram id="9QgBGaIfWBY8398nAPrt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-02T07:32:46.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="GrggqZNe0fsVxa7FMp5E" version="14.2.9" type="github">
+  <diagram id="9QgBGaIfWBY8398nAPrt" name="Page-1">
+    <mxGraphModel dx="942" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gst2fquc6FI-gQTEUFSi-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="-340" width="270" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="gst2fquc6FI-gQTEUFSi-3" value="Milano-Car central parking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-280" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gst2fquc6FI-gQTEUFSi-5" value="Via Chiaravalle,12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-260" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gst2fquc6FI-gQTEUFSi-6" value="&lt;span style=&quot;color: rgb(60 , 64 , 67) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; letter-spacing: 0.2px&quot;&gt;tariffa oraria:&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-240" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
